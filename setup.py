@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sample-library-for-cdp-builds',
-    version='0.4',
+    version='0.5',
     packages=find_packages(),
     author='User A, User B',
     author_email='user.a@nolar.info, user.b@nolar.info',
