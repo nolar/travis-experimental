@@ -2,6 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='sample-library-for-cdp-builds',
+    description="Short description",
+    long_description=open('README.md').read(),
     version='0.5',
     packages=find_packages(),
     author='User A, User B',
